@@ -1,0 +1,32 @@
+root { 
+    display: block;
+}
+
+h1.estilo1{
+    font-family: Verdana;
+    font-size: large;
+    color: coral;
+    background-color: cornsilk;
+}
+
+h1.estilo2{
+    font-family: Tahoma;
+    font-size: x-large;
+    color: blue;
+    background-color: cornsilk;
+}
+
+table.estilo01{
+    border-color: blue;
+    border: darkred;
+    background-color: bisque;
+    font-family: Calibri;
+    font-size: medium;
+}
+.card.shadow{
+	box-shadow: 0 0.46875rem 2.1875rem rgba(4,9,20,0.03), 0 0.9375rem 1.40625rem rgba(4,9,20,0.03), 0 0.25rem 0.53125rem rgba(4,9,20,0.05), 0 0.125rem 0.1875rem rgba(4,9,20,0.03);
+    border-width: 0;
+    transition: all .2s;
+}
+
+
